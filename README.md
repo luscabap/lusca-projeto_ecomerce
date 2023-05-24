@@ -16,7 +16,7 @@ A página é responsiva em 3 tipos de telas: Desktop, Laptop e Mobile. O site es
 
 Por enquanto o site é só a landing page, porém com o tempo adicionaremos features mais funcionalidades e ainda o back-end do site.
 
-Deploy do projeto: 
+Deploy do projeto: https://lusca-projeto-ecomerce.vercel.app/
 
 ---
 
