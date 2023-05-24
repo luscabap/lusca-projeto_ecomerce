@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;400;700;900&display=swap');
+
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+.texto-menor{
+    font-size: 13px;
+}
+
+.divs-facilidades{
+    width: 20.313rem;
+}
+
+.cor-destaque-facilidade{
+    color: #DAFF01;
+}
+
+.cor-botao-bombando{
+    background-color: #9353FF;
+}
+
+.categorias_produtos{
+    cursor: pointer;
+}
+
+.categorias_produtos p:hover{
+    color: yellow;
+}
+
+.form_pesquisar{
+    margin-right: 1rem;
+}
+
+.button_pesquisar{
+    margin-left: 0.5rem;
+}
+
+.container_menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icones_menu{
+    list-style-type: none;
+    color: white;
+}
+
+.link_icones_menu{
+    margin: auto 0.7rem;
+}
